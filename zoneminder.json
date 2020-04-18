@@ -2,7 +2,7 @@
     "name": "Zoneminder",
     "plugin_schema": "2",
     "release": "11.3-RELEASE",
-    "artifact": "https://github.com/freenas/iocage-plugin-zoneminder.git",
+    "artifact": "https://github.com/RafalLukawiecki/iocage-plugin-zoneminder.git",
     "official": false,
     "properties": {
         "dhcp": 1
